@@ -1,0 +1,7 @@
+Stanje vozil na: 22/04/2017
+---------------------------
+0   Audi A3, 46.000 km, Datum zadnjega servisa: 1.1.2016
+1   Honda Civic, 31.000 km, Datum zadnjega servisa: 2.3.2017
+2   Peugeot 508, 98.000 km, Datum zadnjega servisa: 11.10.2016
+3   Renault Clio, 123.000 km, Datum zadnjega servisa: 17.8.2016
+4   Suzuki Swift, 189.000 km, Datum zadnjega servisa: 27.6.2016
